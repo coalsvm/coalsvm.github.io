@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest",
   "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
-  "name": "Ed.",
-  "short_name": "a Hugo theme for minimal editions",
-  "description": "Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.",
+  "name": "CoalSVModel v 3.1",
+  "short_name": "MATLAB GUI for Coal Seam Modelling with SupportVectorMachines",
+  
   "lang": "en-us",
   "dir": "ltr",
   "start_url": "/index.html?source=pwa",
@@ -13,39 +13,14 @@
   "orientation": "natural",
   "shortcuts": [  
     {
-      "name": "Home",
-      "short_name" : "home",
-      "url": "/"
-    } ,
-    {
       "name": "About",
       "short_name" : "about",
-      "url": "/about/"
+      "url": "/about"
     } ,
     {
-      "name": "Credits",
-      "short_name" : "credits",
-      "url": "/credits/"
-    } ,
-    {
-      "name": "Documentation",
-      "short_name" : "documentation",
-      "url": "/documentation/"
-    } ,
-    {
-      "name": "Search",
-      "short_name" : "search",
-      "url": "/search/"
-    } ,
-    {
-      "name": "Contact",
-      "short_name" : "contact",
-      "url": "/contact/"
-    } ,
-    {
-      "name": "GitHub Project",
-      "short_name" : "github",
-      "url": "https://github.com/sergeyklay/gohugo-theme-ed/"
+      "name": "Download",
+      "short_name" : "download",
+      "url": "/download"
     }
   ],
   "icons": [
