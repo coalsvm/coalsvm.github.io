@@ -1,0 +1,11 @@
+---
+title: Home
+cascade: 
+  annotations: false
+---
+
+This site is about CoalSVM v3.1, its documentation, and How-to guides.
+
+![your_img](/images/CoalSVMlogo5.png#floatleft)
+The main objective of this standalone executable program is to generate lignite block model with support vector machines (SVM) methodology. The outputs of the application are thickness map, top contours of the lignite seam, and block centroids which can be exported in various formats, such as .. . CoalSVModel is coded with MATLAB® programming language and made executable with MATLAB® Compiler® application. Blunderss &trade;
+

@@ -1,3 +1,0 @@
-# robots.txt file for "CoalSVModel v 3.1" website, 
-User-agent: *
-Disallow: /
