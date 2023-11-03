@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/web-manifest",
   "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
   "name": "CoalSVModel v3.1",
-  "short_name": "A MATLAB GUI for Coal Seam Modelling with SVM",
+  "short_name": "An auxiliary tool for Coal Seam Modelling with Support Vector Machines",
   
   "lang": "en-us",
   "dir": "ltr",
@@ -13,12 +13,22 @@
   "orientation": "natural",
   "shortcuts": [  
     {
-      "name": "About",
+      "name": "Home",
+      "short_name" : "home",
+      "url": "/"
+    } ,
+    {
+      "name": "Demo \u0026#128187;",
+      "short_name" : "demo",
+      "url": "/demo"
+    } ,
+    {
+      "name": "About  \u0026#8505;\u0026#65039;",
       "short_name" : "about",
       "url": "/about"
     } ,
     {
-      "name": "Download",
+      "name": "Download  \u0026#11123;",
       "short_name" : "download",
       "url": "/download"
     }
