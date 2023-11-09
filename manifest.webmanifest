@@ -18,12 +18,12 @@
       "url": "/"
     } ,
     {
-      "name": "Demo \u0026#128187;",
+      "name": "Documentation",
       "short_name" : "demo",
-      "url": "/demo"
+      "url": "/doctest"
     } ,
     {
-      "name": "About  \u0026#8505;\u0026#65039;",
+      "name": "About",
       "short_name" : "about",
       "url": "/about"
     } ,
