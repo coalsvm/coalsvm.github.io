@@ -4,7 +4,7 @@
   "name": "CoalSVModel v3.1",
   "short_name": "An auxiliary tool for Coal Seam Modelling with Support Vector Machines",
   
-  "lang": "en-us",
+  "lang": "en",
   "dir": "ltr",
   "start_url": "/index.html?source=pwa",
   "display": "fullscreen",
@@ -20,7 +20,7 @@
     {
       "name": "Documentation",
       "short_name" : "demo",
-      "url": "/documentation/"
+      "url": "/documentation"
     } ,
     {
       "name": "About",
